@@ -1,8 +1,21 @@
-### Hi there 👋
+<img align="right" src="https://bit.ly/2CZrLX5" alt="DESI" height=250px/ />
+
+### Hi, I'm Vashisth 👋
+
+I am a Rising Sophomore at the University of Rochester majoring in Physics and Math Honors. Currently, I am working on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). My current project is the development of machine learning tools to identify and classify transients in galaxy spectra.
+
+<strong>Project Background:</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts, but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
+
+A bit more about me: 
+- 😄 Pronouns: He/ Him/ His
+- 🌱 I’m currently learning about Data analysis with Python and Matlab.
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/vashisth-t-a6a574129"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/vtiwari2@u.rochester.edu--_.svg?style=social&logo=gmail" alt="Gmail">
 
 <!--
 **Vashistht/Vashistht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
