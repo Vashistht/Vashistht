@@ -2,7 +2,7 @@
 
 ### Hi, I'm Vashisth 👋
 
-I am a Junior at the University of Rochester majoring in Physics and Math Honors. Currently I am working at a superconducting qubit laborator. Most of the work here is from my previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra.
+I am a Junior at the University of Rochester majoring in Physics and Math Honors. Currently I am working at a superconducting qubit laboratory. Most of the work here is from my previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra.
 
 <strong>Project Background:</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts, but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
 
