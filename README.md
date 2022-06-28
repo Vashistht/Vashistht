@@ -7,7 +7,7 @@ I am a Junior at the University of Rochester majoring in Physics and Math Honors
 A bit more about me: 
 - 😄 Pronouns: He/ Him/ His
 - 🌱 I’m currently learning about Data analysis with Mathematica.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vashisth-t-a6a574129), Email: vtiwari2@u.rochester.edu
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vashistht/), Email: vashisth.vt@gmail.com
 
 
 <!--
