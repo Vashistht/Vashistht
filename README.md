@@ -1,5 +1,3 @@
-<img align="right" src="https://rb.gy/irbxys" alt="DESI" height=250px/ />
-
 ### Hi, I'm Vashisth 👋
 
 I am a Junior at the University of Rochester majoring in Physics and Math Honors. Currently I am working at a superconducting qubit laboratory. Most of the work here is from my previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra.
