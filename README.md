@@ -2,7 +2,9 @@
 
 I am now at CMU doing a masters in AI Engineering.
 
-Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra. **Sadly I cannot share some of my cool projects I have worked at Los Alamos National Laboratory (confidentiality agreements and all that jazz :c)**.
+Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra. 
+
+**Sadly I cannot share some of my cool projects I have worked at Los Alamos National Laboratory (confidentiality agreements and all that jazz :c)**.
 
 <strong>Project Background:</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
 
