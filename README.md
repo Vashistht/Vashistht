@@ -1,13 +1,13 @@
 ### Hi, I'm Vashisth 👋
 
-I am a rising senior at the University of Rochester majoring in physics and math honors. Currently, I am working at a superconducting qubit laboratory making filters and characterising the noise in the experiment. Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra.
+I am now at CMU doing a masters in AI Engineering.
 
-<strong>Project Background:</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts, but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
+Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra. **Sadly I cannot share some of my cool projects I have worked at Los Alamos National Laboratory (confidentiality agreements and all that jazz :c)**.
 
-**Sadly I cannot share some of my cool projects I have worked at Los Alamos National Laboratory (confidentiality agreements and all that jazz :c)**.
+<strong>Project Background:</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
 
 A bit more about me: 
-- 🌱 Got intresting ideas, want to talk about science, emerging tech? Just shoot me a text.
+- 🌱 Got interesting ideas, want to talk about science, emerging tech? Just shoot me a text.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vashistht/), Email: vashisth.vt@gmail.com
 
 
