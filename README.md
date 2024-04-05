@@ -9,7 +9,7 @@ Most of the work here is from my classes and previous work on the [Dark Energy S
 
 **A preview of what I worked on my time @LosAlamosNationalLab is on the repo too in the LANL_preview**.
 
-<strong>Project Background:</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
+<strong>Project Background (DESI):</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
 
 <!--A bit more about me: 
 - 🌱 Got interesting ideas, want to talk about science, emerging tech? Just shoot me a text.
