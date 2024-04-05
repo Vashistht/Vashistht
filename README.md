@@ -1,13 +1,12 @@
 ### Hi, I'm Vashisth 👋
 
-I am now at CMU doing a masters in AI Engineering. I did my undergrad in physics and math at the Univesrity of Rochester. Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov).
+I am now at CMU doing a masters in AI Engineering. I did my undergrad in physics and math at the Univesrity of Rochester. Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov) (about the development of machine learning tools to identify and classify transients in galaxy spectra).
+
 
 - **Current: Speculative Decoding for Faster LLM Inference:**
-- 
 I am currently working on speculative decoding and the work is advised by Professor Beidi Chen.
 
 
- The project was the development of machine learning tools to identify and classify transients in galaxy spectra.
  
 - **A preview of what I worked on during my time @LosAlamosNationalLab is on the repo too in the LANL_preview**.
 
