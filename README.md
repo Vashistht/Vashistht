@@ -2,6 +2,9 @@
 
 I am now at CMU doing a masters in AI Engineering.
 
+**Speculative Decoding for Faster LLM Inference**
+I am currently working on speculative decoding and the work is advised by Professor Beidi Chen.
+
 Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov). The project was the development of machine learning tools to identify and classify transients in galaxy spectra. 
 
 **A preview of what I worked on my time @LosAlamosNationalLab is on the repo too in the LANL_preview**.
