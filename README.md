@@ -8,7 +8,7 @@ I am currently working on speculative decoding and the work is advised by Profes
 
 
  
-- **Los Alamos National Lab** A preview of what I worked on during my time @LosAlamosNationalLab is on the repo here(https://github.com/Vashistht/Vashistht/blob/master/LANL_preview.ipynb)
+- **Los Alamos National Lab** A preview of what I worked on during my time @LosAlamosNationalLab is on the repo [here](https://github.com/Vashistht/Vashistht/blob/master/LANL_preview.ipynb)
 
 - <strong>Project Background (DESI):</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<br>
 
