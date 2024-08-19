@@ -1,6 +1,13 @@
 ### Hi, I'm Vashisth 👋
 
 Thanks for visiting, please find more at my [website](https://vashistht.github.io/). 
+
+I am now at CMU doing a masters in AI Engineering. I did my undergrad in physics and math at the Univesrity of Rochester. Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov) (about the development of machine learning tools to identify and classify transients in galaxy spectra).
+
+- **Los Alamos National Lab** A preview of what I worked on during my time @LosAlamosNationalLab is on the repo [here](https://github.com/Vashistht/Vashistht/blob/master/LANL_preview.ipynb)
+
+- <strong>Project Background (DESI):</strong> During the DESI survey we expect to find galaxies that host bright transients such as supernovae, compact binary mergers, etc. The identification of transients is important not only to ensure correct estimates of the host redshifts but also because it provides an opportunity to obtain “serendipitous” spectra of the transients themselves.<be>
+
 <!--
 I am now at CMU doing a masters in AI Engineering. I did my undergrad in physics and math at the Univesrity of Rochester. Most of the work here is from my classes and previous work on the [Dark Energy Spectropic Instrument (DESI)](https://www.desi.lbl.gov) (about the development of machine learning tools to identify and classify transients in galaxy spectra).
 
